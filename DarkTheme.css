@@ -24,15 +24,11 @@
 
     }
 
-
-
     #logo-area a {
 
         box-shadow: 0 0 10px #000000 !important;
 
     }
-
-
 
     #logo-area img{
 
@@ -105,8 +101,6 @@
         background-color:#131313 !important;
 
     }
-
-
 
     .widget .post-info {
 
@@ -414,12 +408,16 @@
 
     text-shadow:none !important;
 
-}
+    }
     a.scan-link {
 
         color: #DDDDDD !important;
 
     }
+    input {
+    color: #DDDDDD !important;
+    }
+}
 
 
 
