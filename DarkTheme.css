@@ -11,6 +11,11 @@
         float: left !important;
         margin: 0 20px 0 0 !important;
     }
+
+    #logo-area a {
+        box-shadow: box-shadow: 0 0 10px #000000 !important;
+    }
+
     #logo-area img{
       visibility:hidden !important;
     }
